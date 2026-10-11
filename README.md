@@ -1,6 +1,6 @@
 from pathlib import Path
 
-content = r"""# 📊 Excel Sales Performance Dashboard
+content = 📊 Excel Sales Performance Dashboard
 
 A beginner-friendly data analytics project built using Microsoft Excel to clean sample sales data, calculate key performance indicators (KPIs), and visualize sales performance by region and product.
 
