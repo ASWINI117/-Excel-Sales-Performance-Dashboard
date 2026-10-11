@@ -64,4 +64,7 @@ Excel-Sales-Performance-Dashboard/
 ├── Excel_Sales_Performance_Dashboard.xlsx
 └── screenshots/
     ├── dashboard.png
-    └── cleaned-data.png
+👩‍💻 Author
+
+Aswini A
+Aspiring Data Analyst
